@@ -1,5 +1,5 @@
 # Weather 
-![Weather app logo]([https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/Tharindu-Wickramarachchi/Weather_App/blob/main/assets/logo/App_logo.png))
+![Weather app logo](https://github.com/Tharindu-Wickramarachchi/Weather_App/blob/main/assets/logo/App_logo.png)
 
 ## Getting Started
 
