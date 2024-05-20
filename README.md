@@ -9,6 +9,14 @@
    
 ##
   <br>
+
+https://github.com/Tharindu-Wickramarachchi/Weather_App/assets/157413582/0e537355-b3bd-4e38-9037-681b951f02f0
+
+
+https://github.com/Tharindu-Wickramarachchi/Weather_App/assets/157413582/b0192f34-5b36-419f-9f95-e4f0ea9c3119
+
+
+
   
 ## Application User Interface
 
