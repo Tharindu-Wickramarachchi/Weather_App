@@ -1,5 +1,5 @@
 <div align="center">
-  <span style="display: inline-block; vertical-align: middle; font-size: 2em; margin-right: 10px;">Weather App</span>
+  <span style="display: inline-block; vertical-align: middle; font-size: 50em; margin-right: 10px;">Weather    </span>
   <img src="https://github.com/Tharindu-Wickramarachchi/Weather_App/blob/main/assets/logo/App_logo.png" alt="Weather app logo" style="vertical-align: middle;" width="50">
 </div>
 
