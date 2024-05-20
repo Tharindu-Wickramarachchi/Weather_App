@@ -13,13 +13,14 @@
 ## Application Interface
 
   <br>
-  <div style="display: flex;">
+  <div style="display: flex; justify-content: center;">
   <img src="https://github.com/Tharindu-Wickramarachchi/Weather_App/blob/main/assets/Screenshots/Screenshot-1.jpg" alt="Screenshot-1" width="220">
   <img src="https://github.com/Tharindu-Wickramarachchi/Weather_App/blob/main/assets/Screenshots/Screenshot-2.jpg" alt="Screenshot-2" width="220">
   <img src="https://github.com/Tharindu-Wickramarachchi/Weather_App/blob/main/assets/Screenshots/Screenshot-3.jpg" alt="Screenshot-3" width="220">
   <img src="https://github.com/Tharindu-Wickramarachchi/Weather_App/blob/main/assets/Screenshots/Screenshot-4.jpg" alt="Screenshot-4" width="220">
   <img src="https://github.com/Tharindu-Wickramarachchi/Weather_App/blob/main/assets/Screenshots/Screenshot-5.jpg" alt="Screenshot-5" width="220">
   </div>
+
 
 
 
