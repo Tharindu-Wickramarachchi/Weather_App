@@ -10,9 +10,8 @@
 ##
   <br>
   
-## Application Interface
+## Application User Interface
 
-  **Align center:**
   <p align="center" width="100%">
   <img src="https://github.com/Tharindu-Wickramarachchi/Weather_App/blob/main/assets/Screenshots/Screenshot-1.jpg" alt="Screenshot-1" width="220">
   <img src="https://github.com/Tharindu-Wickramarachchi/Weather_App/blob/main/assets/Screenshots/Screenshot-2.jpg" alt="Screenshot-2" width="220">
@@ -20,6 +19,20 @@
   <img src="https://github.com/Tharindu-Wickramarachchi/Weather_App/blob/main/assets/Screenshots/Screenshot-4.jpg" alt="Screenshot-4" width="220">
   <img src="https://github.com/Tharindu-Wickramarachchi/Weather_App/blob/main/assets/Screenshots/Screenshot-5.jpg" alt="Screenshot-5" width="220">
   </p>
+
+## API Docs
+
+  <p>This project uses the OpenWeatherMap API </p>
+  <p>API used in this project: One Call API 3.0</p> 
+
+## Features
+
+  <p>◉ Automatically acquire user current location.</p>
+  <p>◉ Provide the current weather condition of the location.</p>
+  <p>◉ Provide additional weather data such as humidity, wind speed, and visibility distance.</p>
+  <p>◉ Application support light and dark mode</p>
+
+  <br>
 
 
 
