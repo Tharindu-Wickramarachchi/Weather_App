@@ -6,12 +6,12 @@
   Weather is a weather application, developed using Flutter and powered by the OpenWeather One Call API.
   Stay informed about current weather forecasts with ease. Featuring a sleek interface and precise data,
   WeatherNow ensures you're always up to date with the latest weather conditions.
-  <br>
+  
 
 ## Application Interface
 
   <br>
-  <div style="display: flex; gap: 10px;">
+  <div style="display: flex; gap: 20px;">
   <img src="https://github.com/Tharindu-Wickramarachchi/Weather_App/blob/main/assets/Screenshots/Screenshot-1.jpg" alt="Screenshot-1" width="120">
   <img src="https://github.com/Tharindu-Wickramarachchi/Weather_App/blob/main/assets/Screenshots/Screenshot-2.jpg" alt="Screenshot-2" width="120">
   <img src="https://github.com/Tharindu-Wickramarachchi/Weather_App/blob/main/assets/Screenshots/Screenshot-3.jpg" alt="Screenshot-3" width="120">
