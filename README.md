@@ -20,11 +20,15 @@
   <img src="https://github.com/Tharindu-Wickramarachchi/Weather_App/blob/main/assets/Screenshots/Screenshot-5.jpg" alt="Screenshot-5" width="220">
   </p>
 
+  <br>
+  
 ## API Docs
 
   <p>This project uses the OpenWeatherMap API </p>
   <p>API used in this project: One Call API 3.0</p> 
 
+  <br>
+  
 ## Features
 
   <p>◉ Automatically acquire user current location.</p>
