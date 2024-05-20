@@ -1,5 +1,10 @@
-# Weather 
-![Weather app logo](https://github.com/Tharindu-Wickramarachchi/Weather_App/blob/main/assets/logo/App_logo.png)
+<div align="center">
+
+# Weather App
+
+<img src="https://github.com/Tharindu-Wickramarachchi/Weather_App/blob/main/assets/logo/App_logo.png" alt="Weather app logo">
+
+</div>
 
 ## Getting Started
 
