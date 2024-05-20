@@ -10,12 +10,7 @@
 ##
   <br>
 
-
- <p align="center" width="100%">
 https://github.com/Tharindu-Wickramarachchi/Weather_App/assets/157413582/8d37785c-0f0a-4726-91f1-ea6f4557f534
- </p>
-
-
   
 ## Application User Interface
 
