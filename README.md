@@ -6,6 +6,11 @@
   Stay informed about current weather forecasts with ease. Featuring a sleek interface and precise data,
   WeatherNow ensures you're always up to date with the latest weather conditions.
 
+## Application Interface
+
+  <img align="center" src="https://drive.google.com/file/d/1qz47TE7xjIi0D--DEwxVMSV6lj6fIYk2/view?usp=drive_link" alt="Weather app logo" width="120" style="margin-right: 10px;">
+  <img align="center" src="https://drive.google.com/file/d/1pvd5-Gf2hZ7YyRuwUnJcwJCjDuAq1lc-/view?usp=drive_link" alt="Weather app logo" width="120" style="margin-right: 10px;">
+
 
 
 
