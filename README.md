@@ -22,7 +22,11 @@
 
   <br>
 
-https://github.com/Tharindu-Wickramarachchi/Weather_App/assets/157413582/8d37785c-0f0a-4726-91f1-ea6f4557f534
+
+
+https://github.com/Tharindu-Wickramarachchi/Weather_App/assets/157413582/3b1e93f7-a2dd-42e7-893a-58fc8c99a006
+
+
   
 ## API Docs
 
