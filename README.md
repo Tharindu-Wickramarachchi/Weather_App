@@ -1,10 +1,8 @@
 <div align="center">
-
-# Weather App
-
-<img src="https://github.com/Tharindu-Wickramarachchi/Weather_App/blob/main/assets/logo/App_logo.png" alt="Weather app logo">
-
+  <h1 style="display: inline-block; vertical-align: middle; margin: 0;">Weather App</h1>
+  <img src="https://github.com/Tharindu-Wickramarachchi/Weather_App/blob/main/assets/logo/App_logo.png" alt="Weather app logo" width="50" style="vertical-align: middle;">
 </div>
+
 
 ## Getting Started
 
