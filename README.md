@@ -1,7 +1,8 @@
-<div style="display: flex; align-items: center; justify-content: center; ">
-  <span style="font-size: 200px;" vertical-align: middle;>Weather App</span>
-  <img src="https://github.com/Tharindu-Wickramarachchi/Weather_App/blob/main/assets/logo/App_logo.png" alt="Weather app logo" width="50" style="margin-left: 10px; vertical-align: middle;">
+<div style="display: flex; align-items: center; justify-content: center;">
+  <span style="font-size: 200px;">Weather App</span>
+  <img src="https://github.com/Tharindu-Wickramarachchi/Weather_App/blob/main/assets/logo/App_logo.png" alt="Weather app logo" width="50" style="margin-left: 10px;">
 </div>
+
 
 
 
