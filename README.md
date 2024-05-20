@@ -12,7 +12,7 @@
   
 ## Application Interface
 
-  <div style="display: flex; align-items: center; justify-content: center;">
+  <div style="display: flex; align="center">
   <img src="https://github.com/Tharindu-Wickramarachchi/Weather_App/blob/main/assets/Screenshots/Screenshot-1.jpg" alt="Screenshot-1" width="220">
   <img src="https://github.com/Tharindu-Wickramarachchi/Weather_App/blob/main/assets/Screenshots/Screenshot-2.jpg" alt="Screenshot-2" width="220">
   <img src="https://github.com/Tharindu-Wickramarachchi/Weather_App/blob/main/assets/Screenshots/Screenshot-3.jpg" alt="Screenshot-3" width="220">
